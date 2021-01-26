@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "567611121130",
+    "firebase_url": "https://hypersonix-24739.firebaseio.com",
+    "project_id": "hypersonix-24739",
+    "storage_bucket": "hypersonix-24739.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567611121130:android:884a1b9afc37d6ccfee693",
+        "android_client_info": {
+          "package_name": "com.chartstrial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567611121130-te2a4gmvt7p8io2jahhn7caf30612dk8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chartstrial",
+            "certificate_hash": "d278b2a61b8e546715bf9ed3674bf081e1f87515"
+          }
+        },
+        {
+          "client_id": "567611121130-brv8g4mnhe085mt8o14jqi384h3ipbv5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAso2zyd9UDCll__Lu9nq71_4xKdGR61mc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567611121130-brv8g4mnhe085mt8o14jqi384h3ipbv5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
