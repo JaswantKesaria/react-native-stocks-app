@@ -6,4 +6,4 @@ The app shows peformance of stocks using charts. Charts are created using Highch
 The performance of the stock for the previous week, day and month can be seen.
 
 The signin is using the google sign SDK and speech to text functionality to get the stock price by name
-is also implemented
+is also implemented. The final app screenshots can be verified in the screenshots folder.
